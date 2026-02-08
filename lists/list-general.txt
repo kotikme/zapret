@@ -68,3 +68,6 @@ cdn.telegram.org
 pluto.web.telegram.org
 venus.web.telegram.org
 vesta.web.telegram.org
+app.roll20.net
+roll20.net
+files.d20.io
