@@ -61,4 +61,10 @@ compute-1.amazonaws.com
 cloudfront.net
 localizeapi.com
 whitewolf.fandom.com
-
+telegram.org
+t.me
+web.telegram.org
+cdn.telegram.org
+pluto.web.telegram.org
+venus.web.telegram.org
+vesta.web.telegram.org
