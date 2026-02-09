@@ -74,3 +74,4 @@ files.d20.io
 cdn.roll20.net
 roll20.zendesk.com
 use.typekit.net
+static.wikia.nocookie.net
