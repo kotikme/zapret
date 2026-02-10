@@ -117,3 +117,4 @@ hearthstone.blizzard.com
 hearthstone.nosdn.127.net
 firesidegatherings.com
 bnetaccount.akamaized.net
+static.playoverwatch.com
