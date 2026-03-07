@@ -93,4 +93,5 @@ player.twitch.tv
 ext-twitch.tv
 static.twitchcdn.net
 passport.twitch.tv
-
+cmp.osano.com
+lolstatic-a.akamaihd.net
