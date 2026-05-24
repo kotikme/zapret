@@ -97,3 +97,5 @@ cmp.osano.com
 lolstatic-a.akamaihd.net
 wacom.com
 cdn.wacom.com
+deepseek.com
+chat.deepseek.com
